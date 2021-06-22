@@ -1,9 +1,9 @@
 # ee6470 final project (2021/6)
 
 ## software
-  cd build
-  make
-  make sim
+  cd build<br>
+  make<br>
+  make sim<br>
 
 
 ## 參考網站
